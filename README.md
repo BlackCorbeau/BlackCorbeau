@@ -9,8 +9,22 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=BlackCorbeau&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackCorbeau&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+# 💡 My soft skills:  
+- 🔄 **Flexibility**  
+- 🎯 **Determination**  
+- 👥 **Ability to work in a team**  
+- ✨ **Find common ground with colleagues** 
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=BlackCorbeau&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+## 🔗 My accounts:  
+- [GitHub For Work and Freelance Projects](https://github.com/RemizovKL) 💼   
+
+## 📫 **Contacts:**
+- [Gmail](kremizov3@gmail.com)
+- [Telegramm](https://t.me/BWoron)
+- [VK](https://vk.com/bworon)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -18,18 +32,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=BlackCorbeau&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-# 💡 My soft skills:  
-- 🔄 **Flexibility**  
-- 🎯 **Determination**  
-- 👥 **Ability to work in a team**  
-- ✨ **Find common ground with colleagues**  
-
-### 🔗 My accounts:  
-- [GitHub For Work and Freelance Projects](https://github.com/RemizovKL) 💼   
-
-📫 **Contacts:**
-- [Gmail](kremizov3@gmail.com)
-- [Telegramm](https://t.me/BWoron)
-- [VK](https://vk.com/bworon)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 
