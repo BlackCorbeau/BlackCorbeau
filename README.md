@@ -23,7 +23,7 @@
 
 ## 📫 **Contacts:**
 - [Gmail](kremizov3@gmail.com)
-- [Telegramm](https://t.me/BWoron)
+- [Telegram](https://t.me/BWoron)
 - [VK](https://vk.com/bworon)
 
 ### ✍️ Random Dev Quote
