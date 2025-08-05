@@ -20,7 +20,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-### 💡 My soft skills:  
+# 💡 My soft skills:  
 - 🔄 **Flexibility**  
 - 🎯 **Determination**  
 - 👥 **Ability to work in a team**  
